@@ -1,7 +1,7 @@
 ' ***************************
 ' * Bouncing Balls ported   *
 ' * from Naalaa to MMBASIC  *
-' * by Cybermonkey          *
+' * by Markus M.            *
 ' * Best result in mode 1,8 *
 ' * mode 10,8 or mode 8,8   *
 ' ***************************
