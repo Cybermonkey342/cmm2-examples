@@ -2,7 +2,7 @@
 ' * Analog clock ported from *
 ' * Pascal to Lua to Allegro *
 ' * BASIC to MMBASIC by      *
-' * William33 2/2016-9/2020  *
+' * Markus M. 2/2016-9/2020  *
 ' ****************************
 
 xcenter=mm.hres/2
